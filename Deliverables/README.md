@@ -21,7 +21,7 @@
 - It was import to think about which visualizations would smplify the trends, without introducing biases, while also being easy to interpret
 
 ### 4. Finalizing the Story
-- Finalizing the finishing touches on the story
+- Finalizing the finishing aesthetic touches on the story
 - Looking to create an aesthetic that compliments the information without distracting from it
 - Creating a presentation script that feels engaging to the audience while considering time constraints
 
