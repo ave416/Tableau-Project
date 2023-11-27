@@ -55,3 +55,4 @@
     - This could help to identify the most burdened countries and potentially identify some trends that could be driving their high prevalence
 - With additional data, more conclusions could be drawn about the prevlaence of TB throughout the world
     - There were no socioeconomic factors in the dataset, which can often have a large impact on the ability of a region to deal with a global health crisis. 
+- Another future improvement that could be made to the dashboard, would be to create a dynamically sized dashboard, and one that is meant to be interacted with by a user, rather than demonstrated in a presentation
