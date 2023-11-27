@@ -21,7 +21,7 @@
 - It was import to think about which visualizations would smplify the trends, without introducing biases, while also being easy to interpret
 
 ### 4. Finalizing the Story
-- Finalizing the finishing touches on the story
+- Finalizing the finishing aesthetic touches on the story
 - Looking to create an aesthetic that compliments the information without distracting from it
 - Creating a presentation script that feels engaging to the audience while considering time constraints
 
@@ -55,3 +55,4 @@
     - This could help to identify the most burdened countries and potentially identify some trends that could be driving their high prevalence
 - With additional data, more conclusions could be drawn about the prevlaence of TB throughout the world
     - There were no socioeconomic factors in the dataset, which can often have a large impact on the ability of a region to deal with a global health crisis. 
+- Another future improvement that could be made to the dashboard, would be to create a dynamically sized dashboard, and one that is meant to be interacted with by a user, rather than demonstrated in a presentation
