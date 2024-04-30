@@ -1,5 +1,5 @@
 # Final-Project-Tableau
-[Published Tableau Story](https://public.tableau.com/shared/NT4NXW4YN?:display_count=n&:origin=viz_share_link)
+[Published Tableau Story](https://public.tableau.com/views/GlobalTuberculosisBurden_17011108381250/TBDataStory?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 ## Project/Goals
 - Identify trends within the provided dataset using tableau and data visualizations
 - From those visualizations, attempt to answer questions about the burden of TB for different countries
